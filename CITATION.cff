@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: "24 Silvopastoral Milk"
+abstract: "Model of farm-level decisions around silvopastoral management for milk production in the EU with German Farmer case study"
+message: "If you use this work, please cite it using these metadata."
+authors:
+  - family-names: Whitney
+    given-names: Cory
+    orcid: "https://orcid.org/0000-0003-4988-4583"
+    affiliation: "University of Bonn"
+repository-code: "https://github.com/CWWhitney/24_Silvopastoral_Milk"
+license: GPL-3.0-only
